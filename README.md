@@ -1,16 +1,97 @@
-# React + Vite
+# FUTURE_FS_01 — Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 About the Project
 
-Currently, two official plugins are available:
+This project is a personal portfolio website developed as part of the **Future Interns Full Stack Web Development Internship — Task 1**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The portfolio presents my background as a Computer Science Engineering (AI/ML) student, along with my technical skills, projects, education, achievements, and contact information.
 
-## React Compiler
+The website is designed to be simple, professional, responsive, and accessible across desktop and mobile devices.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🌐 Live Website
 
-## Expanding the ESLint configuration
+**Portfolio:** https://future-fs-01-rho-seven.vercel.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* Vite
+* React Router
+* Vercel
+
+## ✨ Features
+
+* Responsive personal portfolio
+* Professional hero section
+* About section
+* Technical skills section
+* Project showcase
+* Individual project detail pages
+* Education section
+* Experience section
+* Achievements section
+* Contact section
+* GitHub and LinkedIn links
+* Responsive design for mobile, tablet, and desktop
+* Client-side routing using React Router
+
+## 📂 Featured Projects
+
+### 1. Artisan Connect AI
+
+An AI-driven platform designed to help marginalized artisans showcase and manage their handmade products through a digital marketplace.
+
+**Technologies:** React, JavaScript, Supabase, Gemini AI
+
+### 2. Road Guardian AI
+
+A road-damage reporting application that allows users to report road issues using images and location information, with tracking and management features.
+
+**Technologies:** React, JavaScript, Supabase, Computer Vision
+
+### 3. EventPulse
+
+An event management web application that supports event creation, registration, role-based management, and QR-based attendance.
+
+**Technologies:** React, JavaScript, Supabase, Database
+
+## 📱 Responsive Design
+
+The portfolio has been designed to work across:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile devices
+
+## 🚀 Deployment
+
+The portfolio is deployed using **Vercel** and is connected to the GitHub repository for deployment.
+
+Every update pushed to the repository can be deployed through the connected Vercel project.
+
+## 🎯 Internship Task
+
+**Program:** Future Interns — Full Stack Web Development Internship
+
+**Task:** Task 1 — Personal Portfolio Website
+
+**Repository:** FUTURE_FS_01
+
+The project was developed according to the internship requirements, including showcasing projects, skills, education/background, and providing a live portfolio URL.
+
+## 👨‍💻 Author
+
+**Ashwith Kumar K**
+
+Computer Science Engineering Student (AI/ML)
+
+Aspiring Full Stack Developer
+
+### Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/ashwith-kumar-k-26a241312/
+* Email: ashwithkumar404@gmail.com

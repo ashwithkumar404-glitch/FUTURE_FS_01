@@ -107,7 +107,7 @@ function ProjectDetails() {
       ],
 
       github:
-        "https://github.com/yourusername/eventpulse"
+        "https://github.com/ashwithkumar404-glitch/EventPulse.git"
     }
   }
 
